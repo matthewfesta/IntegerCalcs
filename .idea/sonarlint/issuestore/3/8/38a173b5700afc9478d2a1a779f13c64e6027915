@@ -1,0 +1,19 @@
+
+q
+java:S1488\"[Immediately return this expression instead of assigning it to the temporary variable "gcf".(ÆĞŸ
+0
+java:S1220""Move this file to a named package.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(§ŞË˜
+S	java:S106"9Replace this use of System.out or System.err by a logger.(íÄÀşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ãã¶úÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(²Êş€üÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(¦Öš‡
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(¥õßşÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(µ²©Ü
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ÀŸ²Ş
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ƒÅ²¹şÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(Á‹Î¸
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(ö””»
+M	java:S1068"9Replace this use of System.out or System.err by a logger.(ëß!
+W
+java:S1126{"AReplace this if-then-else statement by a single return statement.(ê¬¿Ó
